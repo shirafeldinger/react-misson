@@ -1,0 +1,9 @@
+#text-div {
+  width: 100vw;
+  position: relative;
+  overflow-y: scroll;
+  word-wrap: break-word;
+  display: flex;
+  flex-wrap: wrap;
+  flex-grow: 1;
+}

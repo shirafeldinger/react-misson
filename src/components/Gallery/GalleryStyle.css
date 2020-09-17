@@ -1,0 +1,14 @@
+#gallery-div {
+  height: 250px;
+  width: 100vw;
+  overflow: auto;
+  overflow-y: hidden;
+  display: flex;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
+
+.gallery-img {
+  height: 250px;
+  width: 250px;
+}

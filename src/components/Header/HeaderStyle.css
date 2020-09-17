@@ -1,0 +1,17 @@
+#header-div {
+  display: flex;
+  height: 100px;
+  width: 100vw;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: lightgrey;
+}
+
+.header-btn {
+  width: 30px;
+  text-align: center;
+  font-size: x-small;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
