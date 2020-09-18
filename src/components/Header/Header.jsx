@@ -5,9 +5,7 @@ export default function Header() {
     <div id="header-div">
       <button className="header-btn">Next</button>
 
-      <div id="header-txt">
-        <h1>Gallery</h1>
-      </div>
+      <h1>Gallery</h1>
 
       <button className="header-btn">Back</button>
     </div>

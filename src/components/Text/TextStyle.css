@@ -4,6 +4,10 @@
   overflow-y: scroll;
   word-wrap: break-word;
   display: flex;
-  flex-wrap: wrap;
   flex-grow: 1;
+}
+
+#text {
+  position: absolute;
+  padding: 10px;
 }

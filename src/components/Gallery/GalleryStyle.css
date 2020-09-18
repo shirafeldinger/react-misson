@@ -5,7 +5,6 @@
   overflow-y: hidden;
   display: flex;
   justify-content: space-between;
-  box-sizing: border-box;
 }
 
 .gallery-img {
