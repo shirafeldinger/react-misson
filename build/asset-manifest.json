@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-misson/static/css/main.3b626e50.chunk.css",
-    "main.js": "/react-misson/static/js/main.70d40611.chunk.js",
-    "main.js.map": "/react-misson/static/js/main.70d40611.chunk.js.map",
+    "main.css": "/react-misson/static/css/main.a7887a89.chunk.css",
+    "main.js": "/react-misson/static/js/main.31078cb2.chunk.js",
+    "main.js.map": "/react-misson/static/js/main.31078cb2.chunk.js.map",
     "runtime-main.js": "/react-misson/static/js/runtime-main.d571afb5.js",
     "runtime-main.js.map": "/react-misson/static/js/runtime-main.d571afb5.js.map",
     "static/js/2.bf9c42a0.chunk.js": "/react-misson/static/js/2.bf9c42a0.chunk.js",
     "static/js/2.bf9c42a0.chunk.js.map": "/react-misson/static/js/2.bf9c42a0.chunk.js.map",
     "index.html": "/react-misson/index.html",
-    "precache-manifest.19f2c8877b69d3a8115475b876aaf243.js": "/react-misson/precache-manifest.19f2c8877b69d3a8115475b876aaf243.js",
+    "precache-manifest.d1d40c90cf28e228e9011003c18f5415.js": "/react-misson/precache-manifest.d1d40c90cf28e228e9011003c18f5415.js",
     "service-worker.js": "/react-misson/service-worker.js",
-    "static/css/main.3b626e50.chunk.css.map": "/react-misson/static/css/main.3b626e50.chunk.css.map",
+    "static/css/main.a7887a89.chunk.css.map": "/react-misson/static/css/main.a7887a89.chunk.css.map",
     "static/js/2.bf9c42a0.chunk.js.LICENSE.txt": "/react-misson/static/js/2.bf9c42a0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d571afb5.js",
     "static/js/2.bf9c42a0.chunk.js",
-    "static/css/main.3b626e50.chunk.css",
-    "static/js/main.70d40611.chunk.js"
+    "static/css/main.a7887a89.chunk.css",
+    "static/js/main.31078cb2.chunk.js"
   ]
 }
