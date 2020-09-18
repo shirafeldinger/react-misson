@@ -1,9 +1,9 @@
 import React from "react";
-import ContentStyle from "./ContentStyle.css";
+import "./ContentStyle.css";
 
 export default function Content() {
   return (
-    <div id="content-div">
+    <div className="content-div">
       <h2>Content</h2>
     </div>
   );

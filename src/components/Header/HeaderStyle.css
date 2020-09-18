@@ -1,24 +1,26 @@
-#header-div {
+.header-div {
   display: flex;
   height: 100px;
-  width: 100vw;
   align-items: center;
   justify-content: space-around;
-  background: linear-gradient(
-    to right,
-    white,
-    white 33.33%,
-    lightgray 33.33%,
-    lightgray 66.66%,
-    white 66.66%
-  );
 }
 
 .header-btn {
   width: 30px;
   text-align: center;
   font-size: x-small;
+  padding: 0;
+}
+
+.header-section {
+  flex-grow: 1;
   display: flex;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.header-section.center-section {
+  background-color: lightgray;
+  flex-grow: 2;
 }

@@ -1,8 +1,6 @@
-.App {
+h2.content {
   text-align: center;
-  display: flex;
-  flex-direction: column;
-  height: 100vh;
-  width: 100vw;
+  line-height: 100px;
+  height: 100px;
   margin: 0;
 }

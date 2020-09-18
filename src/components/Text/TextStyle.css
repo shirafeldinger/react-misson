@@ -1,13 +1,4 @@
-#text-div {
-  width: 100vw;
-  position: relative;
-  overflow-y: scroll;
-  word-wrap: break-word;
-  display: flex;
-  flex-grow: 1;
-}
-
-#text {
-  position: absolute;
-  padding: 10px;
+.lorem {
+  height: 250px;
+  overflow-y: auto;
 }

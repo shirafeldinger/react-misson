@@ -1,10 +1,10 @@
 import React from "react";
-import FooterStyle from "./FooterStyle.css";
+import "./FooterStyle.css";
 
 export default function Footer() {
   return (
-    <div id="footer-div">
-      <p id="name">Shira Feldinger</p>
+    <div className="footer-div">
+      <p className="name">Shira Feldinger</p>
     </div>
   );
 }

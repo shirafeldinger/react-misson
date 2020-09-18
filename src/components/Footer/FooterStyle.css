@@ -1,12 +1,10 @@
-#footer-div {
+.footer-div {
   display: flex;
   align-items: center;
   justify-content: flex-end;
-
   height: 100px;
-  width: 100vw;
 }
 
-#name {
+.name {
   margin: 10px;
 }
