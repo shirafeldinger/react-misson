@@ -3,8 +3,15 @@
   height: 100px;
   width: 100vw;
   align-items: center;
-  justify-content: space-evenly;
-  background-color: lightgrey;
+  justify-content: space-around;
+  background: linear-gradient(
+    to right,
+    white,
+    white 33.33%,
+    lightgray 33.33%,
+    lightgray 66.66%,
+    white 66.66%
+  );
 }
 
 .header-btn {
