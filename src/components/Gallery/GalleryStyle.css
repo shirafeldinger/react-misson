@@ -1,6 +1,7 @@
 .gallery-div {
   min-height: 250px;
   overflow-x: auto;
+  overflow-y: hidden;
   display: flex;
 }
 
